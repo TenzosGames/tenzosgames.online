@@ -1,6 +1,6 @@
 # TenzosGames website
 
-Static English studio website for `tenzosgames.online`. The publishing account must be **TerencezosGames**. The site has no build step or external code dependency.
+Static English studio website for `tenzosgames.online`. The publishing account must be **TenzosGames**. The site has no build step or external code dependency.
 
 ## Files to publish
 
@@ -21,7 +21,7 @@ For the apex (`@`), add these four `A` records:
 185.199.111.153
 ```
 
-For `www`, add a `CNAME` pointing to `TerencezosGames.github.io`. Remove conflicting default/parking records for `@` and `www`. GitHub recommends configuring both apex and `www` so it can redirect the alternate hostname. Do not use a wildcard record. These values were checked against [GitHub's custom-domain documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) on 2026-10-09.
+For `www`, add a `CNAME` pointing to `TenzosGames.github.io`. Remove conflicting default/parking records for `@` and `www`. GitHub recommends configuring both apex and `www` so it can redirect the alternate hostname. Do not use a wildcard record. These values were checked against [GitHub's custom-domain documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) on 2026-10-09.
 
 ## Final URL checks
 
